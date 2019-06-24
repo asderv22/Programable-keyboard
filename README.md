@@ -35,7 +35,8 @@ arduino promini x1 <br>
 **任何arduino都能工作 这里由于体积限制使用了promini** <br>
 1kΩ 贴片电阻 封装0603 x6 <br>
 9013 贴片三极管 封装sot-23 x3 <br>
-**这两个部分是为了配合arduino实现短接主控板C/R控制脚 具体原理图在files/encoder.pdf**<br>
+**这两个部分是为了配合arduino实现短接主控板C/R控制脚 具体原理图在files/encoder/encoder.pdf**<br>
+**代码在flies/encoder/encoder.ino**<br>
 
 外观&安装
 ----
@@ -80,7 +81,7 @@ https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15650377400.5.524dda783n9xm
 *Unfortunately,I didn't find anything similiar to this on aliexpress/ebay*  <br>
 MX switches x16 <br>
 keycap x16 <br>
-custom pcb x1 **the design files and Gerber files are shown in the /flies  floder** <br>
+custom pcb x1 **the design files and Gerber files are shown in the flies/pcb  floder** <br>
 
 Optional part
 ----
@@ -94,7 +95,8 @@ arduino pro mini x1 <br>
 1kΩ surface-mount resistor **package 0603** x6   <br>
 9013 surface-mount triode **package sot-23** x3 <br>
 **this two components are usde to *short* the C/R pins on the controller with arduino**<br>
-**specific diagram are shown in the files/encoder.pdf** <br>
+**specific diagram are shown in the files/encoder/encoder.pdf** <br>
+**code is shown as files/encoder/encoder.ino**<br>
 
 Appearance & installation
 ----
