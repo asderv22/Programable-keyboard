@@ -36,3 +36,29 @@ arduino promini x1 <br>
 1kΩ 贴片电阻 封装0603 x6 <br>
 9013 贴片三极管 封装sot-23 x3 <br>
 **这两个部分是为了配合arduino实现短接主控板C/R控制脚 具体原理图在files/encoder.pdf** <br>
+
+外观&安装
+----
+外壳采用3d打印方式加工 <br>
+键帽我使用的是无刻键帽 再用pet贴纸打印图标黏贴在上面 <br>
+经过最近的使用 牢固度挺好 不易掉色 是可选的键帽标识方案 <br>
+由于主控板原因 没有再更换usb接口 ~~懒~~ 因此使用了miniusb接口~~2019年了~~ <br>
+**外壳的usb开口根据miniusb尺寸设计 更换typec接口请确认尺寸是否正确** <br>
+
+关于文件的重要解释
+----
+电路原理图在files里 展示为pdf文件 <br> 
+原理图通过lceda绘制 .json文件是lceda源码 <br> 
+**提供altiumdesigner文件 但不保证完整性与正确性** <br>
+<br>
+pcb源码展示为files/keyboard.json<br>
+可导入lceda编辑 <br>
+**pcb制造Gerber文件展示在files/Gerber_keyboard.zip** <br>
+**使用lceda绘制 生产前请使用Gerber浏览器检查要求** <br>
+**提供alitumdesigner文件 由lceda导出 展示为files/keyboard.pcbdoc** <br>
+**由于是导出文件 不确保准确性与可用性 具体参考lceda对于导出文件的解释** <br>
+https://docs.lceda.cn/cn/Export/Export-Altium/index.html <br>
+<br>
+**打印件使用Sketchup绘制并输出stl** <br>
+**由于Sketchup特殊的实体密封 不保证所有切片软件&上位机不出错** <br>
+**打印前请检查切片结果** <br>
