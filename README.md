@@ -117,8 +117,8 @@ the PCB is created via lceda<br>
 sourcecodes are shown as files/pcb/keyboard.json <br>
 also allows import and reedit <br>
 **PCB Gerber files are shown as files/pcb/Gerber_keyboard.zip** <br>
-**its created via lceda please check with Gerber broswer before production**<br>
-**Alitumdesigner files aer provided, shown as files/pcb/keyboard.pcbdoc**<br>
+**its created via lceda， please check with Gerber broswer before production**<br>
+**Alitumdesigner files are provided, shown as files/pcb/keyboard.pcbdoc**<br>
 **but they are exported by lceda,so the accuracy is unknown** <br>
 **for more information,see the link below about lceda's exported files**<br>
 https://docs.lceda.cn/en/Export/Export-Altium/index.html<br>
