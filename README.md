@@ -76,7 +76,7 @@ Materials used
 ----
 controllerboard x1
 ~~I supposed to use an arduino,but later I found some excellent stuff for this project~~<br>
-This is the link of the controller which be used in this project <br>
+This is the link of the controller which is used in this project <br>
 https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-15650377400.5.524dda783n9xmD&id=548316293212 <br>
 *Unfortunately,I didn't find anything similiar to this on aliexpress/ebay*  <br>
 MX switches x16 <br>
